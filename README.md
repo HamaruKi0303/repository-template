@@ -1,3 +1,5 @@
+# リポジトリ README テンプレート
+
 # Index
 
 - [Introduction](#introduction)
@@ -34,6 +36,7 @@
 
 リポジトリの詳細な説明をここに書きます．
 
+下記のコードをコピーしてお使いください．
 
 ```markdown
 # Index
