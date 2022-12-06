@@ -29,3 +29,4 @@
 
 ## Reference site
 
+- [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
