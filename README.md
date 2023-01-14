@@ -5,6 +5,7 @@
 - [Introduction](#introduction)
 - [Updates!!](#updates)
 - [Coming soon](#coming-soon)
+- [Environment](#environment)
 - [Quick Start](#quick-start)
 - [Detail](#detail)
 - [Reference site](#reference-site)
@@ -27,6 +28,12 @@
 - [ ] 今後実装される予定ものをここに書きます
 - [ ] 今後実装される予定ものをここに書きます
 - [ ] 今後実装される予定ものをここに書きます
+
+## Environment
+
+- 動作環境を記載します
+- 動作環境を記載します
+- 動作環境を記載します
 
 ## Quick Start
 
@@ -66,6 +73,12 @@
 - [ ] 今後実装される予定ものをここに書きます
 - [ ] 今後実装される予定ものをここに書きます
 - [ ] 今後実装される予定ものをここに書きます
+
+## Environment
+
+- 動作環境を記載します
+- 動作環境を記載します
+- 動作環境を記載します
 
 ## Quick Start
 
