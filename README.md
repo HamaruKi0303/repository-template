@@ -55,15 +55,8 @@ This feature does yet another thing.
 Clone the repository.
 
 Install the necessary libraries.
-```bash
-$ pip install -r requirements.txt
-```
 
 Start the application.
-
-```
-$ python app.py
-```
 
 ### Usage
 This section explains how to use the repository.
