@@ -26,12 +26,12 @@ This section provides an overview of the repository.
 ## Updates
 This section lists the updates made to the repository.
 
-[2022/04/14] Added feature A
-[2021/08/19] Fixed bug in feature B
-[2021/08/05] Changed specification of feature C
-[2021/07/28] Implemented feature D
-[2021/07/26] Expanded functionality of feature E
-[2021/07/20] Published the repository
+- [2022/04/14] Added feature A
+- [2021/08/19] Fixed bug in feature B
+- [2021/08/05] Changed specification of feature C
+- [2021/07/28] Implemented feature D
+- [2021/07/26] Expanded functionality of feature E
+- [2021/07/20] Published the repository
 
 ## List of Features
 This section lists the features available in the repository.
